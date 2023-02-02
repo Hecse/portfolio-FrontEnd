@@ -4,11 +4,13 @@ U: Untraked Files - estado - no tiene seguimiento
 
 M: Modified - estado - modificado
 
+D: Deleted - borra archivo
+
 A: Add -git add . - agrega archivo
 
-D: Deleted - borra archivo
+git commit -m "comentario"
 
 git push -u origin (para subir)
 
-git commit -m "comentario"
+
 
