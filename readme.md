@@ -1,4 +1,4 @@
-## Esta es una prueba del repositorio en githab :+1:
+## Esta es una prueba del repositorio en github :+1:
 
 U: Untraked Files - estado - no tiene seguimiento
 
