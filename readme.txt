@@ -1,5 +1,14 @@
-Esta es una prueba del repositorio en githab
+## Esta es una prueba del repositorio en githab
+
 U: Untraked Files - estado - no tiene seguimiento
+
 M: Modified - estado - modificado
-A: Add (git add .) agrega archivo
+
+A: Add -git add . - agrega archivo
+
+D: Deleted - borra archivo
+
 git push -u origin (para subir)
+
+git commit -m "comentario"
+
